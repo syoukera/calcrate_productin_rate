@@ -1,0 +1,83 @@
+ 1 H          
+ 2 H2         
+ 3 O          
+ 4 O2         
+ 5 OH         
+ 6 H2O        
+ 7 N2         
+ 8 HO2        
+ 9 H2O2       
+10 AR         
+11 HE         
+12 CO         
+13 CO2        
+14 CH2O       
+15 HCO        
+16 HOCHO      
+17 OCHO       
+18 HOCH2O     
+19 CH3OH      
+20 CH2OH      
+21 CH3O       
+22 CH3O2H     
+23 CH3O2      
+24 CH4        
+25 CH3        
+26 CH2        
+27 CH2(S)     
+28 C          
+29 CH         
+30 HOCO       
+31 HCOH       
+32 C2H6       
+33 C2H5       
+34 C2H4       
+35 C2H3       
+36 C2H2       
+37 C2H        
+38 CH3CHO     
+39 CH3CO      
+40 CH2CHO     
+41 CH2CO      
+42 HCCO       
+43 H2CC       
+44 C2O        
+45 HCCOH      
+46 CH3CO3H    
+47 CH3CO3     
+48 CH3CO2     
+49 C2H5OH     
+50 C2H5O      
+51 CH2CH2OH   
+52 CH3CHOH    
+53 O2C2H4OH   
+54 C2H5O2H    
+55 C2H5O2     
+56 C2H4O2H    
+57 C2H4O(1)   
+58 C2H3O(2)   
+59 CH2CHOH    
+60 CH3OCHO    
+61 CH2OCHO    
+62 CH3OCO     
+63 C2H5OCHO   
+64 C2H5OCO    
+65 CH2CH2OCHO 
+66 CH3CHOCHO  
+67 OH*        
+68 CH*        
+69 KR         
+70 CH4^+      
+71 CH3^+      
+72 CH2^+      
+73 O2(A1)     
+74 O2(B1)     
+75 O2(4.5EV)  
+76 O(1D)      
+77 O(1S)      
+78 O2^+       
+79 O^+        
+80 O3         
+81 HE(SINGLET)
+82 HE^+       
+83 E          
